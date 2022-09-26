@@ -1,7 +1,6 @@
 import styled from "styled-components";
 
 export const InputFilter = styled.input`
-background-color: var(--color-input);
 height: 40px;
 margin: 0;
 padding: 0 15px 0 15px;
